@@ -71,14 +71,14 @@ python main.py --device cuda
 🐛 Troubleshooting
 If you encounter issues:
 
-Verify Ollama is running:
+# Verify Ollama is running:
 
 ollama serve
 Check Python version:
+python --version (3.10 recommended)
 
-python --version
-Update packages:
+# packages installation:
 pip install --upgrade -r requirements.txt
 
-#💡Pro Tip: For smoother animations, enable hardware acceleration in your OS display settings!
+# 💡Pro Tip: For smoother animations, enable hardware acceleration in your OS display settings!
 
