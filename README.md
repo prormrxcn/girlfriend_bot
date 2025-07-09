@@ -57,21 +57,10 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
-4. Run the Application
-bash
-python main.py
-📜 Requirements File
-Here's what requirements.txt contains:
 
-text
-langchain==0.1.0
-langchain-community==0.0.11
-ollama==0.1.2
-Pillow==10.0.0
-customtkinter==5.2.0
-numpy==1.24.3
-🚦 Launch Options
-For better performance, you can run with:
+4. Run the Application
+
+python main.py
 
 bash
 # CPU-only mode
@@ -84,15 +73,12 @@ If you encounter issues:
 
 Verify Ollama is running:
 
-bash
 ollama serve
 Check Python version:
 
-bash
 python --version
 Update packages:
 
-bash
 pip install --upgrade -r requirements.txt
 💡 Pro Tip: For smoother animations, enable hardware acceleration in your OS display settings!
 
