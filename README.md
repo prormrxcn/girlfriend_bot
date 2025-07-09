@@ -33,7 +33,7 @@ Ollama (Latest version)
 
 Python 3.10 or newer
 
-🔧 Installation
+## 🔧 Installation
 1. Install Ollama
 bash
 # Linux/macOS
