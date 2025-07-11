@@ -58,11 +58,10 @@ venv\Scripts\activate     # Windows
 # Install dependencies
 pip install -r requirements.txt
 
-4. Run the Application
+# Run the Application
 
 python main.py
 
-bash
 # CPU-only mode
 python main.py --device cpu
 
